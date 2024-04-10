@@ -9,7 +9,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 💼 Work:
-<div id="92006279394"><script type="text/JavaScript" src="https://www.aparat.com/embed/8tbCN?data[rnddiv]=92006279394&data[responsive]=yes&titleShow=true&autoplay=true&recom=self"></script></div>
+<div id="16478145622"><script type="text/JavaScript" src="https://www.aparat.com/embed/8tbCN?data[rnddiv]=16478145622&data[responsive]=yes&autoplay=true&recom=self"></script></div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
