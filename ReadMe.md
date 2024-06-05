@@ -1,3 +1,4 @@
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31w2lw5ubibzw3u4cvtwolvcbvdu&count={count})
 <h1 align="center">Hello,👋 World!</h1>
 
 ###
