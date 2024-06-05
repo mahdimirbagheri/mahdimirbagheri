@@ -107,7 +107,7 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mahdimirbagheri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <h2 align="left">🎵 Listen now</h2>
-###
+
 
 ###
 
