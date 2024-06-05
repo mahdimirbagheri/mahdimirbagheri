@@ -105,10 +105,13 @@
 ###
 
 <h2 align="left">🏆 GitHub Trophies</h2>
-###
-![](https://github-profile-trophy.vercel.app/?username=mahdimirbagheri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahdimirbagheri&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="365" alt="activity-graph graph"  />
+</div>
+
 <h2 align="left">🎵 Listen now</h2>
-###
+
 
 ###
 
