@@ -128,7 +128,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"  />
+  <img height="400" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"  />
 </div>
 
 ###
