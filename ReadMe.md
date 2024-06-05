@@ -1,5 +1,4 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31w2lw5ubibzw3u4cvtwolvcbvdu&count={count})
-<h1 align="center">Hello,👋 World!</h1>
+<h1 align="left">Hello,👋 World!</h1>
 
 ###
 
@@ -15,7 +14,34 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🌐 My socials</h2>
+
+###
+
+<div align="center">
+  <a href="https://youtube.com/@coderscafe8" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="49" height="37" alt="youtube logo"  />
+  </a>
+  <a href="https://camo.githubusercontent.com/9737432673407ef60f4e55923052f8dd07149b97cefd51e953b2a3773f87b86c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d626c61636b2e7376673f6c6f676f3d58266c6f676f436f6c6f723d7768697465" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="49" height="37" alt="twitter logo"  />
+  </a>
+  <a href="https://linkedin.com/in/seyed-mahdi-mirbagheri-9a1448289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZS6qGzzgT%2B%2BmXAiAGDhFvQ%3D%3D" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="37" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/mahdi___mirbagheri" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="37" alt="instagram logo"  />
+  </a>
+  <a href="https://camo.githubusercontent.com/3922cfa36bd92ee7138e308a8b478c51bdc58907dcf7cec72f9c4276927122b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="49" height="37" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://t.me/CodersCafe8" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="49" height="37" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">🖥 I code with</h2>
 
 ###
 
@@ -72,7 +98,25 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdimirbagheri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mahdimirbagheri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdimirbagheri&radius=13&theme=react&area=true&order=5" height="365" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h2 align="left">🎵 Listen now</h2>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31w2lw5ubibzw3u4cvtwolvcbvdu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w2lw5ubibzw3u4cvtwolvcbvdu&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">🐍 Snake!!</h2>
 
 ###
 
@@ -80,42 +124,17 @@
 
 ###
 
-<h2 align="left">🌐 My socials</h2>
-
-###
-
 <div align="center">
-  <a href="https://youtube.com/@coderscafe8" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="49" height="37" alt="youtube logo"  />
-  </a>
-  <a href="https://camo.githubusercontent.com/9737432673407ef60f4e55923052f8dd07149b97cefd51e953b2a3773f87b86c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f582d626c61636b2e7376673f6c6f676f3d58266c6f676f436f6c6f723d7768697465" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="49" height="37" alt="twitter logo"  />
-  </a>
-  <a href="https://linkedin.com/in/seyed-mahdi-mirbagheri-9a1448289?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZS6qGzzgT%2B%2BmXAiAGDhFvQ%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="37" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/mahdi___mirbagheri" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="37" alt="instagram logo"  />
-  </a>
-  <a href="https://camo.githubusercontent.com/3922cfa36bd92ee7138e308a8b478c51bdc58907dcf7cec72f9c4276927122b5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b6f766572666c6f772d4645374131363f6c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="49" height="37" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://t.me/CodersCafe8" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="49" height="37" alt="telegram logo"  />
-  </a>
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=mahdimirbagheri.mahdimirbagheri&right_color=green"  />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mahdimirbagheri/count.svg?"  />
-</div>
 
 ###
 # 💫 About Me:
