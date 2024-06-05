@@ -119,13 +119,7 @@
 
 ###
 
-<h2 align="left">🐍 Snake!!</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/mahdimirbagheri/mahdimirbagheri/output/snake.svg" alt="Snake animation" />
-
-###
+<h2 align="left">🔑 Quoted</h2>
 
 <div align="center">
   <img height="400" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"  />
