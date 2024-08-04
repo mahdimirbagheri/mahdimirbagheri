@@ -86,6 +86,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="45" alt="adobeillustrator logo"  />
   <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=ps" height="45" alt="adobephotoshop logo"  />
  
 </div>
