@@ -1,5 +1,4 @@
-![snake gif](https://github.com/mahdimirbagheri/mahdimirbagheri/blob/output/github-contribution-grid-snake.gif)
-##
+
 
 <h1 align="left">Hello,👋 World!</h1>
 
