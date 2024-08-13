@@ -1,4 +1,4 @@
-![snake animation](https://github.com/<mahdimirabgheri>/<mahdimirabgheri>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/mahdimirabgheri/mahdimirabgheri/blob/output/github-contribution-grid-snake2.svg)
 <h1 align="left">Hello,👋 World!</h1>
 
 ###
