@@ -94,11 +94,11 @@
 
 ###
 
-<h2 align="center">📊 My State</h2>
+<h2 align="left">📊 My State</h2>
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" height="200" alt="activity-graph graph"/>
 
 ###
 
