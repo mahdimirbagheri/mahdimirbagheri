@@ -98,7 +98,7 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" align="left" height="300" alt="activity-graph graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" align="center" height="200" alt="activity-graph graph"/>
 
 ###
 
