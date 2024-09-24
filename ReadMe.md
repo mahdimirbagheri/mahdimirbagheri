@@ -97,9 +97,9 @@
 <h2 align="left">📊 My State</h2>
 
 ###
-
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" align="center" height="200" alt="activity-graph graph"/>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" height="200" alt="activity-graph graph"/>
+</div>
 ###
 
 <h2 align="left">🏆 GitHub Trophies</h2>
