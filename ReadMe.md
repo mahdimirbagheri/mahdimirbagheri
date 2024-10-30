@@ -100,7 +100,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&theme=merko" height="200" alt="activity-graph graph"/>
 </div>
-###
+
 
 <h2 align="left">🏆 GitHub Trophies</h2>
 
