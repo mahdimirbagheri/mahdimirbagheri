@@ -85,7 +85,7 @@ fun_fact: "This is the way ⚡"
 
 <br>
 
-## 🎮🕹️👾 Contribution Packman
+## 🎮🕹️👾 Contribution Pacman
 
 <div align="center">
 <picture>
