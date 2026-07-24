@@ -107,19 +107,35 @@ fun_fact: "This is the way ⚡"
 
 <br>
 
-## 🎧 Recently Played on Spotify
+## 🎧 Recently Played on SoundCloud
 
-<div align="center">
+<svg width="500" height="160" viewBox="0 0 500 160" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-<a href="https://soundcloud.com/shah-rouz/vzjfuu5w5loc">
-<img 
-src="https://img.shields.io/badge/🎧%20SoundCloud-Listen%20Track-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"
-alt="SoundCloud Track"
-/>
-</a>
+<rect width="500" height="160" rx="25" fill="#0d1117"/>
 
-</div>
+<rect x="10" y="10" width="140" height="140" rx="20" fill="#ff5500"/>
 
+<text x="180" y="45" fill="#ff5500" font-size="18" font-family="Arial">
+🎧 NOW PLAYING
+</text>
+
+<text x="180" y="80" fill="white" font-size="20" font-family="Arial">
+می‌بینم آن شکفتن شادی را
+</text>
+
+<text x="180" y="110" fill="#8b949e" font-size="16" font-family="Arial">
+Schahrouz Kabiri
+</text>
+
+<rect x="180" y="125" width="220" height="8" rx="4" fill="#30363d"/>
+
+<rect x="180" y="125" width="80" height="8" rx="4" fill="#ff5500"/>
+
+<text x="420" y="135" fill="#ff5500" font-size="22" font-family="Arial">
+▶
+</text>
+
+</svg>
 <br>
 
 ## 🔑 Random Quote
