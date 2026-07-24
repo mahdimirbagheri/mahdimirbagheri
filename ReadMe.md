@@ -63,10 +63,10 @@ fun_fact: "This is the way ⚡"
 <table align="center">
 <tr>
 <td>
-<img src="https://github-readme-stats.shion.dev/api?username=mahdimirbagheri&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </td>
 <td>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahdimirbagheri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimirbagheri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </td>
 </tr>
 </table>
@@ -76,7 +76,7 @@ fun_fact: "This is the way ⚡"
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdimirbagheri&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdimirbagheri&theme=github-dark&hide_border=false&area=true" width="95%" alt="Activity Graph"/>
 </div>
 
 <br>
