@@ -90,7 +90,7 @@ fun_fact: "This is the way ⚡"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mahdimirbagheri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies"/>
+  <img src="https://github-profile-trophy-one.vercel.app/?username=mahdimirbagheri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies"/>
 </div>
 
 <br>
