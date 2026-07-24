@@ -63,6 +63,9 @@ fun_fact: "This is the way ⚡"
 <table align="center">
 <tr>
 <td>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimirbagheri&layout=compact&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
 </td>
 <td>
