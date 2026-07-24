@@ -63,16 +63,28 @@ fun_fact: "This is the way ⚡"
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api?username=mahdimirbagheri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      <img
+        src="https://github-readme-stats.shion.dev/api?username=mahdimirbagheri&show_icons=true&theme=tokyonight&hide_border=true"
+        width="450"
+        alt="GitHub Stats"
+      />
     </td>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahdimirbagheri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img
+        src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahdimirbagheri&layout=compact&theme=tokyonight&hide_border=true"
+        width="350"
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahdimirbagheri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=mahdimirbagheri&theme=tokyonight&hide_border=true"
+    width="800"
+    alt="GitHub Streak"
+  />
 </div>
 
 <div align="center">
