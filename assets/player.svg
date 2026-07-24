@@ -1,55 +1,42 @@
 <svg width="500" height="160" viewBox="0 0 500 160" xmlns="http://www.w3.org/2000/svg">
 
-  <defs>
-    <clipPath id="coverClip">
-      <rect x="15" y="15" width="130" height="130" rx="18"/>
-    </clipPath>
-  </defs>
-
   <!-- Background -->
   <rect width="500" height="160" rx="24" fill="#0d1117"/>
 
-  <!-- Cover Image -->
-  <image
-    href="./assets/h.jpg"
-    x="15"
-    y="15"
-    width="130"
-    height="130"
-    preserveAspectRatio="xMidYMid slice"
-    clip-path="url(#coverClip)"
-  />
+  <!-- Album Box -->
+  <rect x="15" y="15" width="130" height="130" rx="18" fill="#ff5500"/>
 
-  <!-- Border -->
-  <rect
-    x="15"
-    y="15"
-    width="130"
-    height="130"
-    rx="18"
-    fill="none"
-    stroke="#30363d"
-    stroke-width="2"
-  />
+  <!-- Headphone Icon -->
+  <g transform="translate(80 80)">
+    <path d="M-28 6V-4C-28-24-15-36 0-36C15-36 28-24 28-4V6"
+          stroke="white"
+          stroke-width="6"
+          fill="none"
+          stroke-linecap="round"/>
 
-  <!-- Header -->
+    <rect x="-34" y="2" width="12" height="28" rx="6" fill="white"/>
+    <rect x="22" y="2" width="12" height="28" rx="6" fill="white"/>
+  </g>
+
+  <!-- NOW PLAYING -->
   <text x="170" y="38"
-        fill="#ff6a00"
+        fill="#ff5500"
         font-size="16"
-        font-family="Segoe UI">
+        font-family="Segoe UI"
+        font-weight="bold">
     NOW PLAYING
   </text>
 
   <!-- Song -->
   <text x="170" y="74"
         fill="white"
-        font-size="22"
+        font-size="20"
         font-family="Segoe UI">
-    می‌بینم آن شکفتن شادی را
+    Me Binam Aan Shekoftan 
   </text>
 
   <!-- Artist -->
-  <text x="170" y="104"
+  <text x="170" y="102"
         fill="#8b949e"
         font-size="16"
         font-family="Segoe UI">
@@ -57,11 +44,11 @@
   </text>
 
   <!-- Progress -->
-  <rect x="170" y="124" width="240" height="8" rx="4" fill="#30363d"/>
-  <rect x="170" y="124" width="120" height="8" rx="4" fill="#ff6a00"/>
+  <rect x="170" y="122" width="230" height="8" rx="4" fill="#30363d"/>
+  <rect x="170" y="122" width="90" height="8" rx="4" fill="#ff5500"/>
 
-  <!-- Play -->
-  <circle cx="445" cy="80" r="22" fill="#ff6a00"/>
+  <!-- Play Button -->
+  <circle cx="445" cy="80" r="22" fill="#ff5500"/>
   <polygon points="438,69 438,91 455,80" fill="white"/>
 
 </svg>
