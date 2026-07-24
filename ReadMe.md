@@ -61,26 +61,22 @@ fun_fact: "This is the way ⚡"
 ## 📊 GitHub Analytics
 
 <table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.shion.dev/api?username=mahdimirbagheri&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-</td>
-<td>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahdimirbagheri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=mahdimirbagheri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahdimirbagheri&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=mahdimirbagheri&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mahdimirbagheri&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdimirbagheri&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdimirbagheri&theme=github-dark&hide_border=false&area=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdimirbagheri&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
 
 <br>
