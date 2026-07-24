@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%8C%90;Co-Founder+%26+CEO+at+CodersCafe;Currently+learning+Rust+%F0%9F%A6%80;Based+in+Iran+%F0%9F%87%AE%F0%9F%87%B7" alt="Typing SVG" />
 </a>
 
+<br>
+
+<img src="https://img.shields.io/github/followers/mahdimirbagheri?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="followers" height="28"/>
+
 </div>
 
 <br>
@@ -48,7 +52,7 @@ fun_fact: "This is the way ⚡"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,django,php,html,css,bootstrap,mysql,mongodb,wordpress,git,figma,linux,vscode,vim,visualstudio,ai,ps,au" />
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,python,django,php,html,css,bootstrap,mysql,mongodb,wordpress,git,figma,linux,vscode,vim,visualstudio,ai,ps,au" />
 
 </div>
 
@@ -56,10 +60,12 @@ fun_fact: "This is the way ⚡"
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="stats graph"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimirbagheri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="165" alt="languages graph"/>
-</div>
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats graph"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimirbagheri&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="languages graph"/></td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=mahdimirbagheri&theme=tokyonight&hide_border=true&border_radius=8" alt="streak graph"/>
@@ -118,4 +124,3 @@ fun_fact: "This is the way ⚡"
 </div>
 
 <!-- Proudly re-built with a lot of ☕ -->
-
