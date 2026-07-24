@@ -109,9 +109,7 @@ fun_fact: "This is the way ⚡"
 
 ## 🎧 Recently Played on SoundCloud
 
-<p align="center">
-  <img src="assets/player.svg" width="700">
-</p>
+[![Now Playing](assets/player.svg)](https://soundcloud.com/shah-rouz/vzjfuu5w5loc?in=shah-rouz/sets/houshangebtehaj&si=04d7cc3ecd174768bdb40945dee1431a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 <br>
 
