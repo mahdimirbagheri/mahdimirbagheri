@@ -1,0 +1,67 @@
+<svg width="500" height="160" viewBox="0 0 500 160" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <clipPath id="coverClip">
+      <rect x="15" y="15" width="130" height="130" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="500" height="160" rx="24" fill="#0d1117"/>
+
+  <!-- Cover Image -->
+  <image
+    href="./assets/h.jpg"
+    x="15"
+    y="15"
+    width="130"
+    height="130"
+    preserveAspectRatio="xMidYMid slice"
+    clip-path="url(#coverClip)"
+  />
+
+  <!-- Border -->
+  <rect
+    x="15"
+    y="15"
+    width="130"
+    height="130"
+    rx="18"
+    fill="none"
+    stroke="#30363d"
+    stroke-width="2"
+  />
+
+  <!-- Header -->
+  <text x="170" y="38"
+        fill="#ff6a00"
+        font-size="16"
+        font-family="Segoe UI">
+    NOW PLAYING
+  </text>
+
+  <!-- Song -->
+  <text x="170" y="74"
+        fill="white"
+        font-size="22"
+        font-family="Segoe UI">
+    می‌بینم آن شکفتن شادی را
+  </text>
+
+  <!-- Artist -->
+  <text x="170" y="104"
+        fill="#8b949e"
+        font-size="16"
+        font-family="Segoe UI">
+    Schahrouz Kabiri
+  </text>
+
+  <!-- Progress -->
+  <rect x="170" y="124" width="240" height="8" rx="4" fill="#30363d"/>
+  <rect x="170" y="124" width="120" height="8" rx="4" fill="#ff6a00"/>
+
+  <!-- Play -->
+  <circle cx="445" cy="80" r="22" fill="#ff6a00"/>
+  <polygon points="438,69 438,91 455,80" fill="white"/>
+
+</svg>
