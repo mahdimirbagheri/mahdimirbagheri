@@ -110,9 +110,14 @@ fun_fact: "This is the way ⚡"
 ## 🎧 Recently Played on Spotify
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31w2lw5ubibzw3u4cvtwolvcbvdu">
-    <img height="100" src="https://spotify-recently-played-readme.vercel.app/api?user=31w2lw5ubibzw3u4cvtwolvcbvdu&count=1&unique=false" alt="Spotify recently played"/>
-  </a>
+
+<a href="https://soundcloud.com/mohammed-am-715706043">
+  <img 
+    src="https://img.shields.io/badge/SoundCloud-Mohammed_AM-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white"
+    alt="SoundCloud"
+  />
+</a>
+
 </div>
 
 <br>
