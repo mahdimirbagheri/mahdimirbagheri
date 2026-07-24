@@ -60,24 +60,18 @@ fun_fact: "This is the way ⚡"
 
 ## 📊 GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td>
+<div align="center">
       <img
         src="https://github-readme-stats.shion.dev/api?username=mahdimirbagheri&show_icons=true&theme=tokyonight&hide_border=true"
         width="450"
         alt="GitHub Stats"
       />
-    </td>
-    <td>
       <img
         src="https://github-readme-stats.shion.dev/api/top-langs/?username=mahdimirbagheri&layout=compact&theme=tokyonight&hide_border=true"
         width="350"
         alt="Top Languages"
       />
-    </td>
-  </tr>
-</table>
+</div>
 
 <div align="center">
   <img
