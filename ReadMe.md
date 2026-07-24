@@ -85,7 +85,7 @@ fun_fact: "This is the way ⚡"
 
 <br>
 
-## 🐍 Contribution Snake
+## 🎮🕹️👾 Contribution Packman
 
 <div align="center">
 <picture>
