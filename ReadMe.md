@@ -22,7 +22,6 @@
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
 
 ```yaml
 whoami:
@@ -40,18 +39,6 @@ whoami:
     the whole world, one commit
     at a time.
 ```
-
-</td>
-<td width="45%" valign="top">
-
-- 🔭 Building **CodersCafe** — a home for developers
-- 🎯 Obsessed with clean code & faster search rankings
-- 📚 Deep in **Rust** right now — fighting the borrow checker
-- 🌱 Always shipping, always learning
-- 💬 Ask me about **SEO**, **web dev**, or **Rust**
-- ⚡ Fun fact: *This is the way*
-
-</td>
 </tr>
 </table>
 
