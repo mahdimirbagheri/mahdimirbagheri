@@ -56,7 +56,6 @@ whoami:
 
 <br>
 
-<div align="center">
 
 ```
 -=+**#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*++=-      mahdi@mirbagheri ------------------------------
@@ -87,20 +86,6 @@ whoami:
 
 </div>
 
-<div align="center">
-
-### 🔭 در حال ساخت **CodersCafe** — خانه‌ای برای توسعه‌دهنده‌ها
-### 💬 هر سوالی درباره SEO، توسعه وب یا Rust داشتید بپرسید
-
-[![YouTube](https://img.shields.io/badge/YouTube-CodersCafe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@coderscafe8)
-[![X](https://img.shields.io/badge/X-Mohammad208506-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mohammad208506)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mahdi-mirbagheri-9a1448289)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahdi___mirbagheri)
-[![Telegram](https://img.shields.io/badge/Telegram-CodersCafe-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodersCafe8)
-
-</div>
-
----
 
 <div align="center">
 
