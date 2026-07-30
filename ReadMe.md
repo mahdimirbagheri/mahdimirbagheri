@@ -12,8 +12,6 @@
 
 <img src="https://img.shields.io/github/followers/mahdimirbagheri?label=Followers&style=for-the-badge&color=A855F7&logo=github&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Status-Building_Something_Cool-0f0c29?style=for-the-badge&logo=lightning&logoColor=A855F7" height="30"/>
-<img src="https://visitcount.itsvg.in/api?id=mahdimirbagheri&icon=6&color=8" height="30"/>
-
 </div>
 
 <br>
