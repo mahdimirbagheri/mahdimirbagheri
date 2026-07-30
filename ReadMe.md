@@ -19,7 +19,7 @@
 
 ## 💎 &nbsp;About Me
 
-<table width="100px">
+<table width="1000px">
 <tr>
 <td width="50%" valign="top">
 
