@@ -12,62 +12,50 @@
 
 <img src="https://img.shields.io/github/followers/mahdimirbagheri?label=Followers&style=for-the-badge&color=A855F7&logo=github&logoColor=white" height="30"/>
 <img src="https://img.shields.io/badge/Status-Building_Something_Cool-0f0c29?style=for-the-badge&logo=lightning&logoColor=A855F7" height="30"/>
+<img src="https://visitcount.itsvg.in/api?id=mahdimirbagheri&icon=6&color=8" height="30"/>
 
 </div>
 
 <br>
 
-## 💎 &nbsp;About Me
+## 🪞 &nbsp;About Me
 
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+whoami:
+  name: "Seyed Mahdi Mirbagheri"
+  aka: "Mohammad208506"
+  titles:
+    - "Co-Founder & CEO @ CodersCafe"
+    - "Programmer"
+    - "SEO Specialist"
+  location: "Iran 🇮🇷"
+  currently_learning: "Rust 🦀"
+  philosophy: "This is the way ⚡"
+  mission: >
+    Building products that reach
+    the whole world, one commit
+    at a time.
 ```
--=+**#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*++=-      mahdi@mirbagheri ------------------------------
--=+*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=-      -----------------------------------------------
--=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=-      .  OS: ................. Iran / Alborz / Karaj
--=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=-      .  User: ............... Seyed Mahdi Mirbagheri
-=+*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=      .  Alias: .............. MIЯΛGΣ (Mohammad208506)
-=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=      .  Role: ............... Co-Founder & CEO @ CodersCafe
-+**#%@@@@@@%##+=====*##%@@@@@@@@@@@@@@@@@%#*+=      .  Titles: ............. Programmer, SEO Specialist
-+*#%%@@@@@%=           .=%@@@@@@@@@@@@@@@%#*+=      .  Currently Learning: . Rust 🦀
-+*#%%@@@@%=:             .=@@@@@@@@@@@@@@%#*+=      .  Philosophy: ......... This is the way ⚡
-+*#%%@@@@%+.    .  .      .*@@@@@@@@@@@@@%#*+=      -
-+*#%%@@%@%*.               :%@@@@@@%%%@@@%#*+=      -  Languages.Programming: Rust, C, C++, Python, Django
-+*#%%%#-+%+.          .... -%@@@%%%@@@@@%%#*+=      -  Focus: ............... Clean code & SEO rankings
-+*#%*-::.-:::    .     ..: +@%%@@@%*=*@%%%#*+=      -
-+*#*:  ..  ..         ...:.::::-+:   .=####*+=      -  Contact ------------------------------------------
-+-::   ..:            .....        .=**#*+++++      .  Website: ............ mahdimirbagheri.github.io
--.    .:::          ...            -=-:.     .      .  Instagram: ........... mahdi___mirbagheri
-..    ..=-            .          ..                 .  X (Twitter): ......... @Mohammad208506
-    .::.::.                      ....               .  LinkedIn: ............ seyed-mahdi-mirbagheri
-   ...:.            .             ..                .  Telegram: ............ CodersCafe8
-                                   ..               -
-                                                      -  GitHub Stats ---------------------------------------
-                                                      .  Repos: ............... 16
-                                                      .  Stars: ............... 46
-                                                      .  Followers: ........... 146   |   Following: 248
-```
+
+</td>
+<td width="45%" valign="top">
+
+- 🔭 Building **CodersCafe** — a home for developers
+- 🎯 Obsessed with clean code & faster search rankings
+- 📚 Deep in **Rust** right now — fighting the borrow checker
+- 🌱 Always shipping, always learning
+- 💬 Ask me about **SEO**, **web dev**, or **Rust**
+- ⚡ Fun fact: *This is the way*
+
+</td>
+</tr>
+</table>
 
 <br>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimirbagheri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mahdimirbagheri&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdimirbagheri&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff)
-
-</div>
-
-<div align="center">
-
-Proudly built with a lot of ☕ and a little bit of 🦀
-
-</div>
 
 ## 🌐 &nbsp;Find Me Around the Web
 
