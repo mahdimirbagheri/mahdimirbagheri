@@ -45,10 +45,10 @@
 
   <!-- Progress -->
   <rect x="170" y="122" width="230" height="8" rx="4" fill="#30363d"/>
-  <rect x="170" y="122" width="90" height="8" rx="4" fill="#ff5500"/>
+  <rect x="170" y="122" width="90" height="8" rx="4" fill="#a855f7"/>
 
   <!-- Play Button -->
-  <circle cx="445" cy="80" r="22" fill="#ff5500"/>
+  <circle cx="445" cy="80" r="22" fill="#a855f7"/>
   <polygon points="438,69 438,91 455,80" fill="white"/>
 
 </svg>
