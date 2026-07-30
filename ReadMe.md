@@ -56,33 +56,6 @@ whoami:
 
 <br>
 
-```
--=+**#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*++=-      mahdi@mirbagheri ------------------------------
--=+*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=-      -----------------------------------------------
--=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=-      .  OS: ................. Iran / Alborz / Karaj
--=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=-      .  User: ............... Seyed Mahdi Mirbagheri
-=+*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=      .  Alias: .............. MIЯΛGΣ (Mohammad208506)
-=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=      .  Role: ............... Co-Founder & CEO @ CodersCafe
-+**#%@@@@@@%##+=====*##%@@@@@@@@@@@@@@@@@%#*+=      .  Titles: ............. Programmer, SEO Specialist
-+*#%%@@@@@%=           .=%@@@@@@@@@@@@@@@%#*+=      .  Currently Learning: . Rust 🦀
-+*#%%@@@@%=:             .=@@@@@@@@@@@@@@%#*+=      .  Philosophy: ......... This is the way ⚡
-+*#%%@@@@%+.    .  .      .*@@@@@@@@@@@@@%#*+=      -
-+*#%%@@%@%*.               :%@@@@@@%%%@@@%#*+=      -  Languages.Programming: Rust, C, C++, Python, Django
-+*#%%%#-+%+.          .... -%@@@%%%@@@@@%%#*+=      -  Focus: ............... Clean code & SEO rankings
-+*#%*-::.-:::    .     ..: +@%%@@@%*=*@%%%#*+=      -
-+*#*:  ..  ..         ...:.::::-+:   .=####*+=      -  Contact ------------------------------------------
-+-::   ..:            .....        .=**#*+++++      .  Website: ............ mahdimirbagheri.github.io
--.    .:::          ...            -=-:.     .      .  Instagram: ........... mahdi___mirbagheri
-..    ..=-            .          ..                 .  X (Twitter): ......... @Mohammad208506
-    .::.::.                      ....               .  LinkedIn: ............ seyed-mahdi-mirbagheri
-   ...:.            .             ..                .  Telegram: ............ CodersCafe8
-                                   ..               -
-                                                      -  GitHub Stats ---------------------------------------
-                                                      .  Repos: ............... 16
-                                                      .  Stars: ............... 46
-                                                      .  Followers: ........... 146   |   Following: 248
-```
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9)
