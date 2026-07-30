@@ -20,7 +20,7 @@
 
   <!-- NOW PLAYING -->
   <text x="170" y="38"
-        fill="#ff5500"
+        fill="#a855f7"
         font-size="16"
         font-family="Segoe UI"
         font-weight="bold">
