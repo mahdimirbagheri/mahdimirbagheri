@@ -4,7 +4,7 @@
   <rect width="500" height="160" rx="24" fill="#0d1117"/>
 
   <!-- Album Box -->
-  <rect x="15" y="15" width="130" height="130" rx="18" fill="#ff5500"/>
+  <rect x="15" y="15" width="130" height="130" rx="18" fill="#a855f7"/>
 
   <!-- Headphone Icon -->
   <g transform="translate(80 80)">
