@@ -18,7 +18,7 @@
 
 <br>
 
-## 🪞 &nbsp;About Me
+## 💎 &nbsp;About Me
 
 <table width="100%">
 <tr>
@@ -84,7 +84,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=mahdimirbagheri&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=mahdimirbagheri&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="80%" alt="GitHub Streak"/>
 
 <br>
 
