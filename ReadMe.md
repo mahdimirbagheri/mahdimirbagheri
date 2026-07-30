@@ -17,11 +17,11 @@
 
 <br>
 
-## 🪞 &nbsp;About Me
+## 💎 &nbsp;About Me
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ```yaml
 whoami:
@@ -41,7 +41,7 @@ whoami:
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 - 🔭 Building **CodersCafe** — a home for developers
 - 🎯 Obsessed with clean code & faster search rankings
