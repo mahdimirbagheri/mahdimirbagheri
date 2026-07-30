@@ -19,9 +19,9 @@
 
 ## 💎 &nbsp;About Me
 
-<table width="1000px">
+<table width=1000px>
 <tr>
-<td width="50%" valign="top">
+<td width="1000px" valign="top">
 
 ```yaml
 whoami:
