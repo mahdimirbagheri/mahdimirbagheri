@@ -23,21 +23,31 @@
 <table width="100%">
 <tr>
 
-```yaml
-whoami:
-  name: "Seyed Mahdi Mirbagheri"
-  aka: "Mohammad208506"
-  titles:
-    - "Co-Founder & CEO @ CodersCafe"
-    - "Programmer"
-    - "SEO Specialist"
-  location: "Iran 🇮🇷"
-  currently_learning: "Rust 🦀"
-  philosophy: "This is the way ⚡"
-  mission: >
-    Building products that reach
-    the whole world, one commit
-    at a time.
+``` yaml
+-=+**#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*++=-      mahdi@mirbagheri ------------------------------
+-=+*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=-      
+-=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=-      .  OS: ................. Iran / Alborz / Karaj
+-=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=-      .  User: ............... Seyed Mahdi Mirbagheri
+=+*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=      .  Alias: .............. MIЯΛGΣ (Mohammad208506)
+=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=      .  Role: ............... Co-Founder & CEO @ CodersCafe
++**#%@@@@@@%##+=====*##%@@@@@@@@@@@@@@@@@%#*+=      .  Titles: ............. Programmer, SEO Specialist
++*#%%@@@@@%=           .=%@@@@@@@@@@@@@@@%#*+=      .  Currently Learning: . Rust 🦀
++*#%%@@@@%=:             .=@@@@@@@@@@@@@@%#*+=      .  Philosophy: ......... This is the way ⚡
++*#%%@@@@%+.    .  .      .*@@@@@@@@@@@@@%#*+=      -
++*#%%@@%@%*.               :%@@@@@@%%%@@@%#*+=      -  Languages.Programming: Rust, C, C++, Python, Django
++*#%%%#-+%+.          .... -%@@@%%%@@@@@%%#*+=      -  Focus: ............... Clean code & SEO rankings
++*#%*-::.-:::    .     ..: +@%%@@@%*=*@%%%#*+=      -
++*#*:  ..  ..         ...:.::::-+:   .=####*+=      -  Contact ------------------------------------------
++-::   ..:            .....        .=**#*+++++      .  Website: ............. mahdimirbagheri.github.io
+-.    .:::          ...            -=-:.     .      .  Instagram: ........... mahdi___mirbagheri
+..    ..=-            .          ..                 .  X (Twitter): ......... @Mohammad208506
+    .::.::.                      ....               .  LinkedIn: ............ seyed-mahdi-mirbagheri
+   ...:.            .             ..                .  Telegram: ............ CodersCafe8
+                                   ..               -
+                                                    -  GitHub Stats ---------------------------------------
+                                                    .  Repos: ............... 16
+                                                    .  Stars: ............... 46
+                                                    .  Followers: ........... 146   |   Following: 248
 ```
 </tr>
 </table>
