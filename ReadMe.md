@@ -56,6 +56,73 @@ whoami:
 
 <br>
 
+<div align="center">
+
+```
+-=+**#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*++=-      mahdi@mirbagheri ------------------------------
+-=+*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=-      -----------------------------------------------
+-=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=-      .  OS: ................. Iran / Alborz / Karaj
+-=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=-      .  User: ............... Seyed Mahdi Mirbagheri
+=+*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=      .  Alias: .............. MIЯΛGΣ (Mohammad208506)
+=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=      .  Role: ............... Co-Founder & CEO @ CodersCafe
++**#%@@@@@@%##+=====*##%@@@@@@@@@@@@@@@@@%#*+=      .  Titles: ............. Programmer, SEO Specialist
++*#%%@@@@@%=           .=%@@@@@@@@@@@@@@@%#*+=      .  Currently Learning: . Rust 🦀
++*#%%@@@@%=:             .=@@@@@@@@@@@@@@%#*+=      .  Philosophy: ......... This is the way ⚡
++*#%%@@@@%+.    .  .      .*@@@@@@@@@@@@@%#*+=      -
++*#%%@@%@%*.               :%@@@@@@%%%@@@%#*+=      -  Languages.Programming: Rust, C, C++, Python, Django
++*#%%%#-+%+.          .... -%@@@%%%@@@@@%%#*+=      -  Focus: ............... Clean code & SEO rankings
++*#%*-::.-:::    .     ..: +@%%@@@%*=*@%%%#*+=      -
++*#*:  ..  ..         ...:.::::-+:   .=####*+=      -  Contact ------------------------------------------
++-::   ..:            .....        .=**#*+++++      .  Website: ............ mahdimirbagheri.github.io
+-.    .:::          ...            -=-:.     .      .  Instagram: ........... mahdi___mirbagheri
+..    ..=-            .          ..                 .  X (Twitter): ......... @Mohammad208506
+    .::.::.                      ....               .  LinkedIn: ............ seyed-mahdi-mirbagheri
+   ...:.            .             ..                .  Telegram: ............ CodersCafe8
+                                   ..                -
+                                                      -  GitHub Stats ---------------------------------------
+                                                      .  Repos: ............... 16
+                                                      .  Stars: ............... 46
+                                                      .  Followers: ........... 146   |   Following: 248
+```
+
+</div>
+
+<div align="center">
+
+### 🔭 در حال ساخت **CodersCafe** — خانه‌ای برای توسعه‌دهنده‌ها
+### 💬 هر سوالی درباره SEO، توسعه وب یا Rust داشتید بپرسید
+
+[![YouTube](https://img.shields.io/badge/YouTube-CodersCafe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@coderscafe8)
+[![X](https://img.shields.io/badge/X-Mohammad208506-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mohammad208506)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seyed-mahdi-mirbagheri-9a1448289)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahdi___mirbagheri)
+[![Telegram](https://img.shields.io/badge/Telegram-CodersCafe-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CodersCafe8)
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdimirbagheri&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimirbagheri&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=mahdimirbagheri&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahdimirbagheri&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff)
+
+</div>
+
+<div align="center">
+
+Proudly built with a lot of ☕ and a little bit of 🦀
+
+</div>
+
 ## 🌐 &nbsp;Find Me Around the Web
 
 <div align="center">
