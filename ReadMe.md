@@ -19,40 +19,32 @@
 
 ## 💎 &nbsp;About Me
 
-<table width=1000px>
-<tr>
-<td width="1000px" valign="top">
-
-```yaml
-whoami:
-  name: "Seyed Mahdi Mirbagheri"
-  aka: "Mohammad208506"
-  titles:
-    - "Co-Founder & CEO @ CodersCafe"
-    - "Programmer"
-    - "SEO Specialist"
-  location: "Iran 🇮🇷"
-  currently_learning: "Rust 🦀"
-  philosophy: "This is the way ⚡"
-  mission: >
-    Building products that reach
-    the whole world, one commit
-    at a time.
 ```
-
-</td>
-<td width="50%" valign="top">
-
-- 🔭 Building **CodersCafe** — a home for developers
-- 🎯 Obsessed with clean code & faster search rankings
-- 📚 Deep in **Rust** right now — fighting the borrow checker
-- 🌱 Always shipping, always learning
-- 💬 Ask me about **SEO**, **web dev**, or **Rust**
-- ⚡ Fun fact: *This is the way*
-
-</td>
-</tr>
-</table>
+-=+**#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*++=-      mahdi@mirbagheri ------------------------------
+-=+*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=-      -----------------------------------------------
+-=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=-      .  OS: ................. Iran / Alborz / Karaj
+-=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*+=-      .  User: ............... Seyed Mahdi Mirbagheri
+=+*#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=      .  Alias: .............. MIЯΛGΣ (Mohammad208506)
+=+*#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#*+=      .  Role: ............... Co-Founder & CEO @ CodersCafe
++**#%@@@@@@%##+=====*##%@@@@@@@@@@@@@@@@@%#*+=      .  Titles: ............. Programmer, SEO Specialist
++*#%%@@@@@%=           .=%@@@@@@@@@@@@@@@%#*+=      .  Currently Learning: . Rust 🦀
++*#%%@@@@%=:             .=@@@@@@@@@@@@@@%#*+=      .  Philosophy: ......... This is the way ⚡
++*#%%@@@@%+.    .  .      .*@@@@@@@@@@@@@%#*+=      -
++*#%%@@%@%*.               :%@@@@@@%%%@@@%#*+=      -  Languages.Programming: Rust, C, C++, Python, Django
++*#%%%#-+%+.          .... -%@@@%%%@@@@@%%#*+=      -  Focus: ............... Clean code & SEO rankings
++*#%*-::.-:::    .     ..: +@%%@@@%*=*@%%%#*+=      -
++*#*:  ..  ..         ...:.::::-+:   .=####*+=      -  Contact ------------------------------------------
++-::   ..:            .....        .=**#*+++++      .  Website: ............ mahdimirbagheri.github.io
+-.    .:::          ...            -=-:.     .      .  Instagram: ........... mahdi___mirbagheri
+..    ..=-            .          ..                 .  X (Twitter): ......... @Mohammad208506
+    .::.::.                      ....               .  LinkedIn: ............ seyed-mahdi-mirbagheri
+   ...:.            .             ..                .  Telegram: ............ CodersCafe8
+                                   ..               -
+                                                      -  GitHub Stats ---------------------------------------
+                                                      .  Repos: ............... 16
+                                                      .  Stars: ............... 46
+                                                      .  Followers: ........... 146   |   Following: 248
+```
 
 <br>
 
