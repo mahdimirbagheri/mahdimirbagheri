@@ -53,30 +53,9 @@
   </picture>
 </p>
 
-Website: [mahdimirbagheri.github.io](https://mahdimirbagheri.github.io) · X: [@Mohammad208506](https://twitter.com/Mohammad208506) · LinkedIn: [seyed-mahdi-mirbagheri](https://linkedin.com/in/seyed-mahdi-mirbagheri-9a1448289) · Email: [mahdimirbagheri85@gmail.com](mailto:mahdimirbagheri85@gmail.com)
-
-<p align="center">
-  <a href="https://mahdimirbagheri.github.io">
-    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://twitter.com/Mohammad208506">
-    <img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://linkedin.com/in/seyed-mahdi-mirbagheri-9a1448289">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mahdimirbagheri85@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=mahdimirbagheri&theme=github-dark&website=mahdimirbagheri.github.io&x=https%3A%2F%2Ftwitter.com%2FMohammad208506&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fseyed-mahdi-mirbagheri-9a1448289&email=mahdimirbagheri85%40gmail.com&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=mahdimirbagheri&theme=github-dark&website=mahdimirbagheri.github.io&x=https%3A%2F%2Ftwitter.com%2FMohammad208506&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Fseyed-mahdi-mirbagheri-9a1448289&email=mahdimirbagheri85%40gmail.com" alt="mahdimirbagheri social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=mahdimirbagheri&theme=autumn&website=mahdimirba...&x=Mohammad..&linkedin=seyed-mahdi...&email=mahdimirbag...&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=mahdimirbagheri&theme=neon&website=mahdimirba...&x=Mohammad..&linkedin=seyed-mahdi...&email=mahdimirbag..." alt="mahdimirbagheri social section" />
   </picture>
-</p>
-
-<p align="center">
-  <sub>Thanks for stopping by — feel free to connect!</sub>
 </p>
