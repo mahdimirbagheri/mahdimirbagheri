@@ -39,6 +39,20 @@
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=mahdimirbagheri&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com//api/section/heatmap?username=mahdimirbagheri&amp;theme=autumn&amp;style=erased" alt="GitSkins Animated Highlights" width="860" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=mahdimirbagheri&theme=autumn&mode=light" />
+    <img src="https://www.gitskins.com/api/section/chess?username=mahdimirbagheri&theme=autumn" alt="mahdimirbagheri chess section" width="850" />
+  </picture>
+</p>
+
 Website: [mahdimirbagheri.github.io](https://mahdimirbagheri.github.io) · X: [@Mohammad208506](https://twitter.com/Mohammad208506) · LinkedIn: [seyed-mahdi-mirbagheri](https://linkedin.com/in/seyed-mahdi-mirbagheri-9a1448289) · Email: [mahdimirbagheri85@gmail.com](mailto:mahdimirbagheri85@gmail.com)
 
 <p align="center">
