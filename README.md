@@ -56,6 +56,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=mahdimirbagheri&theme=autumn&website=mahdimirba...&x=Mohammad..&linkedin=seyed-mahdi...&email=mahdimirbag...&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=mahdimirbagheri&theme=neon&website=mahdimirba...&x=Mohammad..&linkedin=seyed-mahdi...&email=mahdimirbag..." alt="mahdimirbagheri social section" />
+    <img src="https://www.gitskins.com/api/section/social?username=mahdimirbagheri&theme=autumn&website=mahdimirba...&x=Mohammad..&linkedin=seyed-mahdi...&email=mahdimirbag..." alt="mahdimirbagheri social section" />
   </picture>
 </p>
